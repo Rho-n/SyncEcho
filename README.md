@@ -1,0 +1,2 @@
+# plugins
+Cordova plugins
